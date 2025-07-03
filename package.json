@@ -2,7 +2,7 @@
   "name": "instagram-post-automation",
   "version": "1.0.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://raffaluisi.github.io/PostCraft/",
   "dependencies": {
     "downloadjs": "^1.4.7",
     "html-to-image": "^1.11.11",
