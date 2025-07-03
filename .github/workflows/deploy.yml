@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main  # ou master, dependendo do nome da sua branch principal
+      - main  # ou master, se essa for sua branch principal
 
 jobs:
   build-deploy:
@@ -29,3 +29,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./build
+        force_orphan: true
