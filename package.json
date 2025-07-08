@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://username.github.io/instagram-post-manager",
+  "homepage": "https://raffaluisi.github.io/PostCraft/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
