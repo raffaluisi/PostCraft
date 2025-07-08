@@ -1,6 +1,6 @@
 # Instagram Post Manager
 
-A complete web application for creating, editing, and publishing Instagram posts with custom backgrounds and scheduling capabilities.
+A complete web application for creating, editing, and publishing Instagram posts with custom backgrounds and scheduling capabilities. 
 
 ## Features
 
